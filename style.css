@@ -1,0 +1,21 @@
+body {
+  background-color: blanchedalmond;
+}
+
+* {
+  text-align: center;
+  font-family: courier;
+}
+
+h1 {
+  color: black;
+}
+
+p {
+  color: #8B8878;
+  font-size: 20px;
+}
+
+form {
+  
+}
