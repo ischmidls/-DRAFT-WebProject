@@ -1,3 +1,4 @@
+
 body {
   background-color: blanchedalmond;
 }
@@ -5,6 +6,7 @@ body {
 * {
   text-align: center;
   font-family: courier;
+  font-size: 2vw;
 }
 
 h1 {
@@ -13,7 +15,6 @@ h1 {
 
 p {
   color: #8B8878;
-  font-size: 20px;
 }
 
 form {
